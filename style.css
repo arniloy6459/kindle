@@ -1,0 +1,15 @@
+header {
+    background-color: orangered;
+}
+.book-overview {
+    background-color: #f2f4f5;
+    padding-bottom: 80px;
+}
+.check-out {
+    background-color: orangered;
+    padding-bottom: 80px;
+}
+col-md-3 {
+    max-width: 24%;
+    margin-left: 5px;
+}
