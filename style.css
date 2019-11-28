@@ -21,11 +21,3 @@ header {
     height: 50%;
     border-radius: 50%;
 }
-.fab {
-    font-size: 25px;
-    color: orangered;
-    border: 1px solid orangered;
-    padding: 10px;
-    border-radius: 50%;
-    margin: 0px 10px;
-}
