@@ -17,8 +17,3 @@ header {
     height: 40rem;
     background-image: linear-gradient(rgba(4, 4, 4, 0.73),rgba(37, 37, 37, 0.88)), url(pic/bg.jpg);
 }
-.img {
-    width: 10%;
-    height: 50%;
-    border-radius: 50%;
-}
