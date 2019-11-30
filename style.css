@@ -6,7 +6,7 @@ header {
     padding-bottom: 80px;
 }
 .check-out {
-    background-color: orangered;
+    background-image: linear-gradient(rgba(232, 37, 6, 0.8),rgba(245, 38, 5, 0.76)), url(pic/bg.jpg);
     padding-bottom: 80px;
 }
 .pricing-plan {
@@ -15,6 +15,7 @@ header {
 }
 .carousel-item {
     height: 40rem;
+    background-image: linear-gradient(rgba(4, 4, 4, 0.73),rgba(37, 37, 37, 0.88)), url(pic/bg.jpg);
 }
 .img {
     width: 10%;
